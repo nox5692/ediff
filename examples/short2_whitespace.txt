@@ -1,0 +1,8 @@
+Ahoj, tohle   je testovací soubor na testování textového porovnání, 
+
+   které porovnává všechny znaky,ale ne mezery.
+
+Je to krátká ukázka, aby z ní na první pohled bylo zřejmé, že se rovná svému protějšku    
+
+
+(to je ten druhý short_whitespace soubor).

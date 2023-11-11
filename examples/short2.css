@@ -1,0 +1,19 @@
+.red {
+    background-color: red;
+    height: 50px;
+    width: 100px;
+}
+  
+#blue {
+    color: blue;
+    font-size: 2rem;
+    height: 100px
+}
+
+body::after {
+    transform: scale(1.5);
+}
+
+#blue > .red {
+    background-color: purple;
+}

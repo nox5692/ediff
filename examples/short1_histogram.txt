@@ -1,0 +1,1 @@
+This is a histogram text comparison test file to prove that it works works. End.

@@ -1,0 +1,3 @@
+Hi, this is a test file to test a text comparison that compares all characters, including white ones.
+
+It's a short example to make it clear at a glance that it's equal to its counterpart (that's the other short_exact file).

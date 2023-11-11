@@ -1,0 +1,3 @@
+./ediff -txt examples/short1_exact.txt examples/short2_exact.txt
+./ediff -txt -h examples/short1_exact.txt examples/short2_exact.txt
+./ediff examples/short1.css examples/short2.css

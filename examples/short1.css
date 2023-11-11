@@ -1,0 +1,22 @@
+header {
+    height: 60px;
+}
+
+.red { background-color: green; } 
+  
+#blue { color: red; height: 100px }
+  
+.red {
+    background-color: orange;
+    height: 50px;
+    width: 100px;
+}
+  
+#blue {
+    color: blue;
+    font-size: 2rem;
+}
+  
+.red {
+    background-color: red;
+}

@@ -1,0 +1,1 @@
+Start. This is a histogram text text comparison test file to prove that it works.
