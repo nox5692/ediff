@@ -1,7 +1,7 @@
-# *EDIFF*: **E**xtended **DIFF**
+# *ediff*: *E*xtended *diff*
 
 ---
-### What does **ediff** bring to the table?
+### What does *ediff* bring to the table?
 - Well known **diff** features,
 - PNG image histogram comparison,
 - CSS selector filescraping and comparison,
