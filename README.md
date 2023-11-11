@@ -52,7 +52,7 @@ To build the project, run the following command:
 To run the program, execute the following command:
 
     ```bash
-    ./ediff <...args...>
+    ./ediff <args>
     ```
 
 ### If you have any suggestions or ideas on how to improve this, let me know!
