@@ -31,20 +31,28 @@ If these tools are not installed, you can typically install them using your syst
 1. #### Installation
     1. Clone the repository:
 
-        `git clone https://github.com/nox5692/ediff.git`
+        ```bash
+            git clone https://github.com/nox5692/ediff.git
+        ```
 
     2. Navigate to the project directory:
 
-        `cd ediff`
+        ```bash
+            cd ediff
+        ```
 
 2. #### Build
     - To build the project, run the following command:
 
-        `make`
+        ```bash
+            make
+        ```
 
 3. ### Run
     - To run the program, execute the following command:
 
-        `./ediff <args>`
+        ```bash
+            ./ediff <args>
+        ```
 
 ### If you have any suggestions or ideas on how to improve this, let me know!
