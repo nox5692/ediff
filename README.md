@@ -1,6 +1,5 @@
 # *ediff*: *E*xtended *diff*
 
----
 ### What does *ediff* bring to the table?
 - Well known **diff** features,
 - PNG image histogram comparison,
@@ -18,7 +17,6 @@
     - **ediff** will match file suffixes and match them to their respective comparison methods.
 
 ## Install, build and run:
-
 ### Prerequisites
 Before you begin, ensure you have the following tools installed:
 
