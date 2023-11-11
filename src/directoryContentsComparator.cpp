@@ -67,7 +67,7 @@ void directoryContentsComparator::findDifferences() {
             } catch ( std::exception &error ) {
                 comp_type = 0;
             }
-            std::cout << comp_type << " ";
+            // std::cout << comp_type << " ";
 
             Comparator *comparator = nullptr;
             comparator             = app.startComparison( comp_type );
@@ -76,7 +76,7 @@ void directoryContentsComparator::findDifferences() {
                 comparator->findDifferences();
 
                 if ( comparator->isSame() ) {
-                    std::cout << *item << " " << *counterpart << std::endl;
+                    std::cout << COLOR_GREEN << "MATCH: " << COLOR_RESET << *item << COLOR_RED << " vs " << COLOR_RESET << *counterpart << std::endl;
                     found_counterpart = true;
                     delete comparator;
                     _directory_2.second.erase( counterpart );
